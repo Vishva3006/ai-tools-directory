@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ai-tools-directory-gq18.vercel.app/sitemap.xml
